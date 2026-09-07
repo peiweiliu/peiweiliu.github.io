@@ -1,0 +1,35 @@
+﻿hr.style2 {
+	border-top: 3px double #fff;
+}
+
+p {
+	margin-top: 15px;
+	margin-bottom: 0;
+}
+
+@media (min-width: 1200px)
+.container {
+	max-width:720px;
+}
+
+@media (min-width: 992px)
+.container {
+	max-width:720px;
+}
+
+body {
+	font-family: Times New Roman;
+}
+
+@media screen and(max-width: 768px) {
+    .sometext {
+       font-size:9px ;}
+}
+
+span.tab-space {
+     padding-left:4em;
+}
+
+span.tab-spaceSHORT {
+     padding-left:3em;
+}
